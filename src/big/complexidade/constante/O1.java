@@ -1,4 +1,4 @@
-package big.complexidadeConstante;
+package big.complexidade.constante;
 
 import org.apache.commons.lang3.time.StopWatch;
 
