@@ -21,7 +21,7 @@ public class ON {
     /**
      * O tempo de execução cresce linearmente com base no número de pratos.
      * Cada prato leva 30 segundos para ser lavado.
-     * Complexidade: O(N), onde N é o número total de pratos em cada pia.
+     * Complexidade: O(n), onde n é o número total de pratos em cada pia.
      */
     private static int[] washDishes(int[][] sinks) {
         int[] times = new int[sinks.length]; // Array para armazenar o tempo de cada pia
